@@ -1,0 +1,6 @@
+# IDE generated paths
+/.vscode/
+
+# Node.js paths
+npm-debug.log
+node_modules/
