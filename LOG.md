@@ -15,3 +15,14 @@ Pythonista would produce, I can definitely see why so many people love to work
 with the language!
 
 I rarely use Python myself, so this turned out to be a nice little challenge.
+
+# Day 3 — March 5th, 2020
+
+Another smooth run today, one more implementation down! Today's implementation
+is written in Ruby, and it's a looker.
+
+I feel that Ruby is a bit laborious to write, what with all of its `end`
+statements, but aside from that it's a pleasure to use. It feels very much like
+Python, and shares a some great syntax bonueses such as `and`/`or`; and ranges
+are another hugely useful feature that my go to language JavaScript doesn't
+have, so they're _always_ welcome.
