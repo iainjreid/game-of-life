@@ -9,8 +9,8 @@ def step(grid):
 
   for y in range(len(grid)):
     for x in range(len(grid[y])):
-      live_neighbors = count_live_neighbors(y, x, grid)
-      grid_copy[y][x] = (live_neighbors == 2 or live_neighbors == 3) if grid[y][x] else (live_neighbors == 3)
+      live_neighbours = count_live_neighbours(y, x, grid)
+      grid_copy[y][x] = (live_neighbours == 2 or live_neighbours == 3) if grid[y][x] else (live_neighbours == 3)
 
   sleep(0.1)
   step(grid_copy)
@@ -21,7 +21,7 @@ def print_grid(grid):
   for line in grid:
     print(reduce(lambda l, c: l + ("██" if c > 0 else "  ‎"), line, ""))
 
-def count_live_neighbors(y, x, grid):
+def count_live_neighbours(y, x, grid):
   n = 0
 
   for dy in range(-1, 2):
