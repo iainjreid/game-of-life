@@ -23,6 +23,6 @@ is written in Ruby, and it's a looker.
 
 I feel that Ruby is a bit laborious to write, what with all of its `end`
 statements, but aside from that it's a pleasure to use. It feels very much like
-Python, and shares a some great syntax bonueses such as `and`/`or`; and ranges
+Python, and shares a some great syntax bonuses such as `and`/`or`; and ranges
 are another hugely useful feature that my go to language JavaScript doesn't
 have, so they're _always_ welcome.
