@@ -26,3 +26,14 @@ statements, but aside from that it's a pleasure to use. It feels very much like
 Python, and shares a some great syntax bonuses such as `and`/`or`; and ranges
 are another hugely useful feature that my go to language JavaScript doesn't
 have, so they're _always_ welcome.
+
+# Day 4 — March 6th, 2020
+
+Today was pretty tough, I choose to go with Haskell, and oh my, was it a steep
+learning curve.
+
+A few years ago I read a great introductory book on Haskell (that I couldn't
+recommend more) called "Learn You a Haskel for Great Good". At the time I felt
+as though I was getting a grasp on the syntax and language structure in general,
+but I failed to put those learnings into practice, and between then and now, it
+looks as though I'd managed to forget _everything_.
