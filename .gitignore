@@ -4,3 +4,6 @@
 # Node.js paths
 npm-debug.log
 node_modules/
+
+# Compiled output from some languages
+main
