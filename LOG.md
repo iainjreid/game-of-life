@@ -37,3 +37,9 @@ recommend more) called "Learn You a Haskel for Great Good". At the time I felt
 as though I was getting a grasp on the syntax and language structure in general,
 but I failed to put those learnings into practice, and between then and now, it
 looks as though I'd managed to forget _everything_.
+
+# Day 5 — March 7th, 2020
+
+A very entertaining implementation today using just vanilla POSIX shell! This
+meant no access to arrays or Bashisms, and therefore a much more challenging
+task in general.
