@@ -43,3 +43,19 @@ looks as though I'd managed to forget _everything_.
 A very entertaining implementation today using just vanilla POSIX shell! This
 meant no access to arrays or Bashisms, and therefore a much more challenging
 task in general.
+
+# Day 6 — March 8th, 2020
+
+Another day, another implementation. I decided to Go with Go today (best pun I
+could think up, sorry) as per a suggestion from someone on Twitter. I'm not
+hugely happy with the look of the code at the moment, but I'm glad that it's
+working for now!
+
+I'd never realised just how much Go looks like JavaScript, I'm not sure if this
+was a conscious design choice or not? I'm not complaining, I love good'ol
+JavaScript, any similarities are welcome from my perspective.
+
+I will say this, although Go isn't a functional language, I'm pretty surprised
+that it lacks basic instance methods for iterating over arrays, aside from
+for/while loops of course. I'm not sure if I've missed something from the
+documentation perhaps?
