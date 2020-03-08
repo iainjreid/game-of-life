@@ -11,6 +11,7 @@ updating this table throughout the process.
 |            |        |      |         |
 | :--------: | :----: | :--: | :-----: |
 | JavaScript | Python | Ruby | Haskell |
+|   Shell    |        |      |         |
 
 ##### Proposed
 
