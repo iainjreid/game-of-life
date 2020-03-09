@@ -59,3 +59,13 @@ I will say this, although Go isn't a functional language, I'm pretty surprised
 that it lacks basic instance methods for iterating over arrays, aside from
 for/while loops of course. I'm not sure if I've missed something from the
 documentation perhaps?
+
+# Day 7 — March 8th, 2020
+
+The first week is complete! I chose to go with Groovy today, not a language that
+I often use (outside of Jenkins of course), but the language shares a lot of
+semantic similarities with JavaScript, so it sits well under my fingers.
+
+I went for a semi-functional approach, not something Groovy is normally used
+for, but seeing that I'd not normally be allowed to write "functional" Groovy, I
+thought I'd go ahead a treat myself.
