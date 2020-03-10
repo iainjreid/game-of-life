@@ -11,13 +11,13 @@ updating this table throughout the process.
 |            |        |        |         |
 | :--------: | :----: | :----: | :-----: |
 | JavaScript | Python |  Ruby  | Haskell |
-|   Shell    |   Go   | Groovy |         |
+|   Shell    |   Go   | Groovy |  Rust   |
 
 ##### Proposed
 
 These are the suggested languages that I've yet to implement, if you'd like to
 make your own suggestion, send me a Tweet and I'll add it to the list!
 
-|        |      |         |     |
-| :----: | :--: | :-----: | :-: |
-| Racket | Rust | Lolcode |     |
+|        |         |     |     |
+| :----: | :-----: | :-: | :-: |
+| Racket | Lolcode |     |     |
