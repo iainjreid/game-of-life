@@ -69,3 +69,17 @@ semantic similarities with JavaScript, so it sits well under my fingers.
 I went for a semi-functional approach, not something Groovy is normally used
 for, but seeing that I'd not normally be allowed to write "functional" Groovy, I
 thought I'd go ahead a treat myself.
+
+# Day 8 — March 10th, 2020
+
+Today's implementation of Conway's Game of Life is written using Rust. I like
+Rust, a lot, I like the idea of it, I love the tooling behind it, and for a
+modern competetor to C/C++, it's hit the nail on the head in my opinion.
+
+I've read mixed reviews about Rust from diehard C programmers, they sometimes
+ring little alarm bells in my head, but you've got to take these with a pinch of
+salt.
+
+People shouldn't brush over the fact that the ongoing development of Rust is
+pushing forward not one, but two fronts, with system level programing and WASM
+benefitting from the efforts of the team behind it.
