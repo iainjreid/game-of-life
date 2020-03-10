@@ -60,7 +60,7 @@ that it lacks basic instance methods for iterating over arrays, aside from
 for/while loops of course. I'm not sure if I've missed something from the
 documentation perhaps?
 
-# Day 7 — March 8th, 2020
+# Day 7 — March 9th, 2020
 
 The first week is complete! I chose to go with Groovy today, not a language that
 I often use (outside of Jenkins of course), but the language shares a lot of
