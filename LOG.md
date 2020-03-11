@@ -83,3 +83,18 @@ salt.
 People shouldn't brush over the fact that the ongoing development of Rust is
 pushing forward not one, but two fronts, with system level programing and WASM
 benefitting from the efforts of the team behind it.
+
+# Day 9 — March 11th, 2020
+
+I have to start by saying that this was one of the best implementations so far.
+Racket is a pleasure to write! I have a soft spot for languages that look good
+on the screen, and Racket looks great.
+
+I've not used any fancy macros or features from the many extensions of Racket
+(or are they different schemes entirely?), so I like to think that this is a
+relatively vanilla approach. I'd appreciate feedback if anybody has any!
+
+Before I sign off, I came across [this wonderful website][9.1] full of tips and
+tricks on how to write tip-top Racket.
+
+[9.1]: https://beautifulracket.com/
