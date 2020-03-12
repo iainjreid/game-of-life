@@ -98,3 +98,28 @@ Before I sign off, I came across [this wonderful website][9.1] full of tips and
 tricks on how to write tip-top Racket.
 
 [9.1]: https://beautifulracket.com/
+
+# Day 10 — March 12th, 2020
+
+Today was a really tough one, for a number of reasons, the biggest of which I'll
+explain now. TLDR; I chose Dart.
+
+The core instance methods in Dart feel irraticly implemented. Take the List
+class as an example, on the one hand there are ten methods dedicated to the
+removal and insertion of elements. Ten! Yet on the other hand, there's only one
+way to map over a List, and you don't have access to the List indicies whilst
+doing so.
+
+If, like me, you'd like to map over a List in Dart with access to the indecies,
+you'll have to convert the List to a Map, iterate over that Map, returning a
+MapEntry for each element, retrieve the values as an Iterable from the Map, and
+then cast that Iterable back to a List. Phew!
+
+I was also suprised to find out that some core classes such as Map, can't be
+extended... In an object-oriented programming language where everything is an
+Object, I found that extremely jarring.
+
+In all honesty, I just struggled to get behind the language. It's not to say
+that it's all doom and gloom, the type system feels mature and there _are_ some
+nice features in the language, such as extensions. It's just unfortunate that
+these positives are heavily outwieghed by the negtivives.
