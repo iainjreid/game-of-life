@@ -123,3 +123,15 @@ In all honesty, I just struggled to get behind the language. It's not to say
 that it's all doom and gloom, the type system feels mature and there _are_ some
 nice features in the language, such as extensions. It's just unfortunate that
 these positives are heavily outweighed by the negatives.
+
+# Day 11 — March 13th, 2020
+
+Such an improvement on yesterday, today I went ahead with an implementation in
+[Lua][11.1]. Special thanks goes out to those that voted for Lua on my short
+Twitter poll the other day!
+
+I've already created [a ticket][11.2] on GitHub to revisit this implementation
+in the future (I'd really like to experiment with `goto` statements in Lua).
+
+[11.1]: https://github.com/iainreid820/game-of-life/blob/master/lua/main.lua
+[11.2]: https://github.com/iainreid820/game-of-life/issues/1
