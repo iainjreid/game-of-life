@@ -145,7 +145,7 @@ nothing too spicy.
 I've worked as a Scala developer in the past, and without all of that functional
 goodness lending me a helpful hand, I had to do a little searching for more
 object-orientated solutions in Java. I'm pleased with the resulting
-implementation, but I sincerly apologise if you're a purist Java developer and
-you feel slightly queezy whilst reading through the implementation.
+implementation, but I sincerely apologise if you're a purist Java developer and
+you feel slightly queasy whilst reading through the implementation.
 
 [12.1]: https://github.com/iainreid820/game-of-life/blob/master/java/main.java
